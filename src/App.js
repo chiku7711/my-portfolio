@@ -11,7 +11,7 @@ function App() {
 
 // logo
 
-let logotxt = 'harsh';
+let logotxt = 'harsh1';
 
 // navigation
 
