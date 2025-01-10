@@ -199,10 +199,7 @@ let skill = [
     logo : 'c.png',
     text : 'C++',
   },
-  {
-    logo : 'github.png',
-    text : 'Github',
-  },
+
 ]
 
   return (    
