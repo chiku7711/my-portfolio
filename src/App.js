@@ -197,7 +197,7 @@ let skill = [
   },
   {
     logo : 'c.png',
-    text : 'C++',
+    text : 'C++ language',
   },
 
 ]
